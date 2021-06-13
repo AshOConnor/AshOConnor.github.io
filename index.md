@@ -39,7 +39,6 @@
             <br>https://i.imgur.com/UrLnIeq.png
             <br>https://i.imgur.com/gdHkwyr.png
           </p>
-          
-        </article>
+          </article>
     </body>
   </html>
