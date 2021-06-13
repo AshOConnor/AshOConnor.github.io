@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Ash O'Connor</title>
+    <meta charset="utf-8">
+    <style>
+      h1 {
+        color: grey;
+        margin: 0px;
+        text-align: center;
+      }
+    </style>
+  </head>
+    <body>
+      <!--This is the main content-->
+      <h1>Ashley O'Connor</h1>
+      <article>
+      <h2>Personal Information</h2>
+      <img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.6435-9/44176772_953487514840128_8275900563435028480_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=174925&_nc_ohc=VNHCDK9ODlkAX8tvCAs&_nc_ht=scontent-syd2-1.xx&oh=034e4349fe14b0346f8cda1fad05a27a&oe=60CA6B31">
+      <p>Ashley O’Connor
+        <br>S3915744
+        <br>S3915744@student.rmit.edu.au
+        <br>I was born in Upper Ferntree Gully Victoria, Australia. I am from Dutch descent as my grandfather was born and raised in the Netherlands.
+        <br>I love snowboarding in the Winter & water sports in Summer.
+        <br>I have a loving and wonderful partner, Gemma whom I have been with for the past 7 years.
+        <br>I have two dogs named Romeo (Golden Retriever) & Elvis (Beagle x).
+      </p>
+      </article>
 
-You can use the [editor on GitHub](https://github.com/AshOConnor/AshOConnor.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+      <article>
+      <h2>Interest in IT</h2>
+      <h3>• What is my interest in IT? When did my interest in IT start? Was there a particular event or person that sparked my interest?</h3>
+      <p>
+      </p>
+      <h3>• Why did I choose to come to RMIT?</h3>
+      <p>I chose RMIT as it offered a pathways course with Open Universities Australia. As I did not finish year 12 or have a qualification other than a certificate III,
+        this pathway allows me to complete two units, if successful in passing then I can continue with the Bachelor of Information Technology.
+      </p>
+        <h3>• What do I expect to learn during your studies?</h3>
+        <p>
+        </p>
+        </article>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AshOConnor/AshOConnor.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+        <article>
+          <h2>Ideal Job</h2>
+          <p>Front End Developer (Remote)
+            <br>https://www.seek.com.au/job/52506489?type=standard#searchRequestToken=301fd586-e5d2-418d-a1b7-af4a1b9f82cc
+            <br>https://i.imgur.com/UrLnIeq.png
+            <br>https://i.imgur.com/gdHkwyr.png
+          </p>
+          
+        </article>
+    </body>
+  </html>
