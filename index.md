@@ -1,22 +1,14 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Ash O'Connor</title>
     <meta charset="utf-8">
-    <style>
-      h1 {
-        color: grey;
-        margin: 0px;
-        text-align: center;
-      }
-    </style>
   </head>
     <body>
       <!--This is the main content-->
       <h1>Ashley O'Connor</h1>
       <article>
+        <img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.6435-9/44176772_953487514840128_8275900563435028480_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=174925&_nc_ohc=VNHCDK9ODlkAX8tvCAs&_nc_ht=scontent-syd2-1.xx&oh=034e4349fe14b0346f8cda1fad05a27a&oe=60CA6B31">
       <h2>Personal Information</h2>
-      <img src="https://scontent-syd2-1.xx.fbcdn.net/v/t1.6435-9/44176772_953487514840128_8275900563435028480_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=174925&_nc_ohc=VNHCDK9ODlkAX8tvCAs&_nc_ht=scontent-syd2-1.xx&oh=034e4349fe14b0346f8cda1fad05a27a&oe=60CA6B31">
       <p>Ashley O’Connor
         <br>S3915744
         <br>S3915744@student.rmit.edu.au
